@@ -1,3 +1,3 @@
 # youtube-downloader
-### Youtube downloader for audio or video - Made by niggasoftware
+### Youtube downloader for audio or video
 #### Written in python
